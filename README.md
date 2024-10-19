@@ -40,7 +40,6 @@ I'm a 14-year-old aspiring programmer diving headfirst into the fascinating worl
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://x.com/JoshuaVipr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat-square&logo=firefox&logoColor=white)](/)
 
 ---
 
